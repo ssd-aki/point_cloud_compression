@@ -1,0 +1,6 @@
+AtlasFrameIndex = 0
+AtlasFrameOrderCntVal = 0,  AtlasFrameWidthMax =  2560, AtlasFrameHeightMax = 2368, AtlasID = 0, ASPSFrameSize = 6062080, VPSMapCount = 2, AttributeCount = 1, AttributeDimension = 3, NumTilesAtlasFrame = 1, AtlasTotalNumProjPatches = 192, AtlasTotalNumRawPatches = 0, AtlasTotalNumEomPatches = 0,  Atlas MD5 = bdac4cf964647c56913a2ae8aa1e1c21, Atlas B2P MD5 = 364863b2634ed7c516b39061b7ffe376
+AtlasFrameIndex = 1
+AtlasFrameOrderCntVal = 1,  AtlasFrameWidthMax =  2560, AtlasFrameHeightMax = 2368, AtlasID = 0, ASPSFrameSize = 6062080, VPSMapCount = 2, AttributeCount = 1, AttributeDimension = 3, NumTilesAtlasFrame = 1, AtlasTotalNumProjPatches = 184, AtlasTotalNumRawPatches = 0, AtlasTotalNumEomPatches = 0,  Atlas MD5 = ce5b9b838c34e5be226eea39d55fff37, Atlas B2P MD5 = 526dc8df1070de1348b4b12d0649da2e
+AtlasFrameIndex = 2
+AtlasFrameOrderCntVal = 2,  AtlasFrameWidthMax =  2560, AtlasFrameHeightMax = 2368, AtlasID = 0, ASPSFrameSize = 6062080, VPSMapCount = 2, AttributeCount = 1, AttributeDimension = 3, NumTilesAtlasFrame = 1, AtlasTotalNumProjPatches = 207, AtlasTotalNumRawPatches = 0, AtlasTotalNumEomPatches = 0,  Atlas MD5 = 77a51b2e383b587bb83e2bb34a78a698, Atlas B2P MD5 = 29c1f00628d5b66b38a2af445de04f9d

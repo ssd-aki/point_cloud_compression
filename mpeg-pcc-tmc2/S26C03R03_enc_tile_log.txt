@@ -1,0 +1,6 @@
+AtlasFrameIndex = 0
+TileID = 0, AtlasFrameOrderCntVal = 0, TileType = 1, TileOffsetX = 0, TileOffsetY = 0, TileWidth = 2560, TileHeight = 2368,  Tile MD5 = bdac4cf964647c56913a2ae8aa1e1c21, Tile B2P MD5 = 364863b2634ed7c516b39061b7ffe376
+AtlasFrameIndex = 1
+TileID = 0, AtlasFrameOrderCntVal = 1, TileType = 1, TileOffsetX = 0, TileOffsetY = 0, TileWidth = 2560, TileHeight = 2368,  Tile MD5 = ce5b9b838c34e5be226eea39d55fff37, Tile B2P MD5 = 526dc8df1070de1348b4b12d0649da2e
+AtlasFrameIndex = 2
+TileID = 0, AtlasFrameOrderCntVal = 2, TileType = 1, TileOffsetX = 0, TileOffsetY = 0, TileWidth = 2560, TileHeight = 2368,  Tile MD5 = 77a51b2e383b587bb83e2bb34a78a698, Tile B2P MD5 = 29c1f00628d5b66b38a2af445de04f9d

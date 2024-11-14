@@ -1,0 +1,6 @@
+AtlasFrameIndex = 0
+PointCloudFrameOrderCntVal = 0, NumProjPoints = 3195954, NumRawPoints = 0, NumEomPoints = 0, MD5 checksum = b329253955aba76b535a1bbd4ab92645
+AtlasFrameIndex = 1
+PointCloudFrameOrderCntVal = 1, NumProjPoints = 3191182, NumRawPoints = 0, NumEomPoints = 0, MD5 checksum = 370e6dbb8ad664ca9c28b87f68a2814b
+AtlasFrameIndex = 2
+PointCloudFrameOrderCntVal = 2, NumProjPoints = 3202113, NumRawPoints = 0, NumEomPoints = 0, MD5 checksum = 6dd705dd64a0b683048f45f70c25b750

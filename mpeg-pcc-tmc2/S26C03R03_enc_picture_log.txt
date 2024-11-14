@@ -1,0 +1,24 @@
+Occupancy
+MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = dc61b27659481ed9429c09cf6b1dbcaf,  MD5checksumChan1 = e219b62ecb1a0420337d49f823983ad2,  MD5checksumChan2 = e219b62ecb1a0420337d49f823983ad2 
+ IdxOutOrderCntVal = 1,  MD5checksumChan0 = b4f21eebe9c218bd280dbc0d0891d724,  MD5checksumChan1 = e219b62ecb1a0420337d49f823983ad2,  MD5checksumChan2 = e219b62ecb1a0420337d49f823983ad2 
+ IdxOutOrderCntVal = 2,  MD5checksumChan0 = ae0ff9432ca34c4d5b36e8e1283f072e,  MD5checksumChan1 = e219b62ecb1a0420337d49f823983ad2,  MD5checksumChan2 = e219b62ecb1a0420337d49f823983ad2 
+Width =  640, Height = 592 
+Geometry
+MapIdx = 0, AuxiliaryVideoFlag = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = aa6cc0ad7aa766131b9ef9b1686f8919,  MD5checksumChan1 = a42bae5dcb61bd34b327fea5fc166ef8,  MD5checksumChan2 = a42bae5dcb61bd34b327fea5fc166ef8 
+ IdxOutOrderCntVal = 1,  MD5checksumChan0 = abef1440b41f5cd533f4d411d2b7a9e3,  MD5checksumChan1 = a42bae5dcb61bd34b327fea5fc166ef8,  MD5checksumChan2 = a42bae5dcb61bd34b327fea5fc166ef8 
+ IdxOutOrderCntVal = 2,  MD5checksumChan0 = aa44a5121c0a3791aeda268800a2c97f,  MD5checksumChan1 = 9f312dfe9f84b3394047361d0f927a77,  MD5checksumChan2 = 9f312dfe9f84b3394047361d0f927a77 
+ IdxOutOrderCntVal = 3,  MD5checksumChan0 = 4443197f90a8d4579590df42faa2f161,  MD5checksumChan1 = 9f312dfe9f84b3394047361d0f927a77,  MD5checksumChan2 = 9f312dfe9f84b3394047361d0f927a77 
+ IdxOutOrderCntVal = 4,  MD5checksumChan0 = fcff8a856fa858eb647a27650876a741,  MD5checksumChan1 = 7430e1431488bd475195cc25fd6fb3e6,  MD5checksumChan2 = 7430e1431488bd475195cc25fd6fb3e6 
+ IdxOutOrderCntVal = 5,  MD5checksumChan0 = 1b57c3ff398de3999e5852d80a3ca84e,  MD5checksumChan1 = a42bae5dcb61bd34b327fea5fc166ef8,  MD5checksumChan2 = a42bae5dcb61bd34b327fea5fc166ef8 
+Width =  2560, Height = 2368 
+Attribute
+MapIdx = 0, AuxiliaryVideoFlag = 0, AttrIdx = 0, AttrPartIdx = 0, AttrTypeID = 0
+ IdxOutOrderCntVal = 0,  MD5checksumChan0 = 098f4f580993df2eb7bca87efb9eee9d,  MD5checksumChan1 = 9dc15f55e07b8f4fc917b03096faaa59,  MD5checksumChan2 = 86ea9ab6434a2409e56e6fead8e4aec0 
+ IdxOutOrderCntVal = 1,  MD5checksumChan0 = bafa3d90d4fa222c7dd91edb084aacbd,  MD5checksumChan1 = d740591d1a3955a6a69b24245f06d91a,  MD5checksumChan2 = dbf5c0c28850c79dd7cceb58c6d6ea6d 
+ IdxOutOrderCntVal = 2,  MD5checksumChan0 = 1a1ed2aa911312fd1e1c55aa418b5194,  MD5checksumChan1 = 611a002587595fccc4778f8c202382d5,  MD5checksumChan2 = 895847c0b58b54264891ef4235b3ddb0 
+ IdxOutOrderCntVal = 3,  MD5checksumChan0 = ea2ea5389b262d3470356d509a578bd4,  MD5checksumChan1 = 154e63aa4a546e9d2098ce19108bd7b5,  MD5checksumChan2 = 6168becac36c0286f0401e25922b9492 
+ IdxOutOrderCntVal = 4,  MD5checksumChan0 = 7a8a4b3b0cc8ed32ade140516f08a5e4,  MD5checksumChan1 = 2ad7c78d46adf8c001f75c40c111b962,  MD5checksumChan2 = e543216ef42231a9c0e52cdc1567c920 
+ IdxOutOrderCntVal = 5,  MD5checksumChan0 = 15814982bf66035ff19c7cf03c73312d,  MD5checksumChan1 = ca148ccde66262f513ebc50b46f34fbd,  MD5checksumChan2 = eb628aa0e53dbd9adfb0f4da01883a15 
+Width =  2560, Height = 2368 

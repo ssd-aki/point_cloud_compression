@@ -1,0 +1,6 @@
+AtlasFrameIndex = 0
+ MD5 checksum = 1c7493f98a45ab026baf76634b9e685d
+AtlasFrameIndex = 1
+ MD5 checksum = d818bd83264289a2fac58d7608cea700
+AtlasFrameIndex = 2
+ MD5 checksum = 580ace4e60c2d3760335a3a9e3730024

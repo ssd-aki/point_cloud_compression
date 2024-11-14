@@ -1,0 +1,8 @@
+**********GEOMETRY_SMOOTHING_ESEI***********
+SEI66MD5 = 22bb19c16d6587357ec7dab3c4a39593
+AtlasFrameIndex = 0
+HLSMD5 = a3b0906dea009e58fb85d196da75d1e6
+AtlasFrameIndex = 1
+HLSMD5 = a3b0906dea009e58fb85d196da75d1e6
+AtlasFrameIndex = 2
+HLSMD5 = a3b0906dea009e58fb85d196da75d1e6
